@@ -2,4 +2,4 @@
 
 [Teste](https://snake-nu-beryl.vercel.app/)
 
-![imagem]()
+![imagem](assets/snake.gif)
